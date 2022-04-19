@@ -1,0 +1,8 @@
+dlib - opencv
+captacao imagem de acordo com a w,h do device
+medidas: calibração, reducao de brilho da tela
+aplicação landmark olho
+aplicacao de mascaras e binarização
+encontro de bordas para determinar posicao da iris
+coleta eixo x,y
+grafico de dispercao com delta da variacao da iris com reproducao da imagem no back
